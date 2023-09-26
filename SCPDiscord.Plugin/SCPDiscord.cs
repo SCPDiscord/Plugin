@@ -9,7 +9,7 @@ namespace SCPDiscord.Plugin
     {
         public static SCPDiscord Instance;
         
-        [PluginEntryPoint("SCPDiscord.Plugin", "0.0.1", "Yes", "SrLicht")]
+        [PluginEntryPoint("SCPDiscord.Plugin", "0.0.1", "Yes", "SrLicht & Imurx")]
         void LoadPlugin()
         {
             Instance = this;
